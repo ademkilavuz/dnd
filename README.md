@@ -1,2 +1,2 @@
-# dnd
-Created with CodeSandbox
+# ReactReduxFabric
+React Redux Fabric Canvas Demo
